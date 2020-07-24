@@ -1,0 +1,4 @@
+/robotic-tide-terraform.json
+/.terraform/*
+/spinnaker-config.yaml
+/terraform.tfstate.backup
